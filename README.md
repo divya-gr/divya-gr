@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya-gr&label=Profile%20views&color=0e75b6&style=flat" alt="divya-gr" /> </p>
 
-- 🌱 I’m currently learning **Terraform,Azure,AWS,pyhton**
+- 🌱 I am proficient in **Terraform,Azure,AWS,pyhton,k8s, Docker,Gitlab, Github actions**
 
 - 📫 How to reach me **gargdivya704@gmail.com**
 
